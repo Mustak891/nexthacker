@@ -102,7 +102,7 @@ const Header = () => {
           </button>
         </div>
         <div className="px-4 mb-4 relative">
-          <FaSearch className="absolute top-1/2 left-3 transform -translate-y-1/2 text-gray-500" size={16} />
+          <FaSearch className="absolute top-1/2 left-6 transform -translate-y-1/2 text-gray-500" size={16} />
           <input
             type="text"
             placeholder="Search Lifehacker"
